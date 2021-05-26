@@ -42,6 +42,7 @@ g. ?enrolled(kiko,math273)
 h. ?instructor(grossman,X)
 
 i. ?instructor(X,cs301)
+
 ------------------------------------------------------------------------------------------------------------------------------------
 2. Write a program to Find the last element of a list.
 Example:
