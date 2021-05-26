@@ -8,22 +8,39 @@ represent that professor p is the instructor of course c and that student s
 is enrolled in course c, respectively.
 the Prolog facts in such a program:
 instructor(chan,math273)
+
 instructor(patel,ee222)
+
 instructor(grossman,cs301)
+
 enrolled(kevin,math273)
+
 enrolled(juana,ee222)
+
 enrolled(juana,cs301)
+
 enrolled(kiko,math273)
+
 enrolled(kiko,cs301)
+
 what would Prolog return given these queries?
+
 a. ?instructor(chan,math273)
+
 b. ?instructor(patel,cs301)
+
 c. ?enrolled(X,cs301)
+
 d. ?enrolled(kiko,Y)
+
 e. ?teaches(grossman,Y)
+
 f. ?enrolled(kevin,ee222)
+
 g. ?enrolled(kiko,math273)
+
 h. ?instructor(grossman,X)
+
 i. ?instructor(X,cs301)
 ------------------------------------------------------------------------------------------------------------------------------------
 2. Write a program to Find the last element of a list.
